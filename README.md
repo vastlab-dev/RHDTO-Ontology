@@ -9,7 +9,7 @@ This is the official repository of the RHDTO Ontology, a model for cultural heri
 
 The ontology also provides the conceptual tools to describe the reactivity that digital twins are able to deploy for cultural heritage documentation and preservation, by including the semantic description of sensors, signals, activators and all of the process of interacting with real world objects.
 
-Check the [documentation](https://github.com/vastlab-dev/RHDTO-Ontology/blob/main/RHDTO%20Ontology%20Specification.pdf) for more details.
+Check the [documentation](https://github.com/vastlab-dev/RHDTO-Ontology/blob/main/RHDTO%20Ontology%20Specification_v1_1.pdf) for more details.
 
 
 
